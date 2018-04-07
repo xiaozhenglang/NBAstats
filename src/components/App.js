@@ -1,6 +1,4 @@
 import React, { Component } from 'react';
-
-import './App.css';
 import {TopNavBar} from "./TopNavBar"
 
 class App extends Component {
