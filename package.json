@@ -8,8 +8,18 @@
     "lodash": "^4.17.5",
     "nba": "^4.2.2",
     "react": "^16.3.1",
-    "react-dom": "^16.3.1",
+    "react-dom": "^16.3.3",
     "react-scripts": "1.1.4"
+  },
+  "devDependencies": {
+    "cryptiles": ">=4.1.2",
+    "deep-extend": ">=0.5.1",
+    "macaddress": ">=0.2.9",
+    "merge": ">=1.2.1",
+    "randomatic": ">=3.0.0",
+    "react-dev-utils": ">=5.0.2",
+    "url-parse": ">=1.4.3",
+    "webpack-dev-server": ">=3.1.11"
   },
   "scripts": {
     "start": "react-scripts start",
